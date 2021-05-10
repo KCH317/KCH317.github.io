@@ -1,6 +1,6 @@
-name: Solar Theme
+name: KCH's git
 url: http://kch317.github.io
-description: A stylish blog using the Solarized color palette
+description: welcome KCH's git
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
