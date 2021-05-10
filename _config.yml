@@ -1,6 +1,6 @@
 name: KCH's git
 url: http://kch317.github.io
-description: welcome KCH's git
+description: Welcome KCH's git
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
