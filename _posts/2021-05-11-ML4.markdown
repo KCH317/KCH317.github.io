@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "머신러닝 4차 과제"
+date:   2021-05-11 13:27:40
+categories: jekyll update
+---
+
 # 4차 과제
 - 2020250001
 - 권찬호
