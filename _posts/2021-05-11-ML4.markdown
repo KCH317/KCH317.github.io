@@ -891,7 +891,7 @@ Image.open("/content/ML4_pitures/day_train/Image00001.jpg")
 
 
 
-<img src="/images/output_94_0.png" class="right" width="250" height="200" />
+<img src="/images/output_94_0.png" width="300" height="250" />
     
 
 
@@ -904,7 +904,7 @@ Image.open("/content/ML4_pitures/night_train/Image00001.jpg")
 
 
 
-<img src="/images/output_95_0.png" class="right" width="250" height="200" />
+<img src="/images/output_95_0.png" width="300" height="250" />
 
 
 
@@ -957,8 +957,8 @@ plt.axis('off')
 
 
 
-    
-![png](output_99_2.png)
+<img src="/images/output_99_2.png" width="300" height="250" />
+
     
 
 
@@ -1201,7 +1201,7 @@ logistic_regression(x_train, y_train, x_test, y_test,learning_rate = 0.01, num_i
 
 
 
-<img src="/images/output_118_1.png" class="right" width="250" height="200" />
+<img src="/images/output_118_1.png" width="300" height="250" />
 
     
 
@@ -1228,7 +1228,7 @@ Image.open("/content/ML4_pitures/indoor_train/7109056069_1.jpg")
 
 
 
-<img src="/images/output_122_0.png" class="right" width="250" height="200" />
+<img src="/images/output_122_0.png" width="300" height="250" />
 
     
 
@@ -1242,8 +1242,8 @@ Image.open("/content/ML4_pitures/outdoor_train/4105061037_4.jpg")
 
 
 
-    
-![png](/images/output_123_0.png)
+<img src="/images/output_123_0.png" width="300" height="250" />
+   
     
 
 
@@ -1322,8 +1322,8 @@ plt.axis('off')
 
 
 
-    
-![png](output_126_2.png)
+<img src="/images/output_126_2.png" width="300" height="250" />
+   
     
 
 
@@ -1598,8 +1598,8 @@ logistic_regression(x_train, y_train, x_test, y_test,learning_rate = 0.01, num_i
 
 
 
-    
-![png](/images/output_145_1.png)
+<img src="/images/output_145_1.png" width="300" height="250" />
+   
     
 
 
